@@ -1,6 +1,8 @@
 ### Olá, eu sou o Ian.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanDinizFK)](https://github.com/IanDinizFK/github-readme-stats)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDinizFK&show_icons=true&theme=radical" />
+  <img align="center" height="240" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDinizFK&layout=compact&theme=radical">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
