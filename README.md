@@ -1,7 +1,7 @@
 ### Hello, I'm Ian Diniz.
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDinizFK&show_icons=true&theme=midnight-purple" />
-  <img align="center" height="250" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDinizFK&layout=compact&count=&theme=midnight-purple&langs_count=7">
+  <img align="center" height="251" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDinizFK&layout=compact&count=&theme=midnight-purple&langs_count=7">
 </div>
 
 <div style="display: inline_block"><br>
