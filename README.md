@@ -1,7 +1,6 @@
 ### Hello, I'm Ian Diniz.
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanDinizFK&show_icons=true&theme=radical" />
-  <img align="center" height="240" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDinizFK&layout=compact&theme=radical">
+  
 </div>
 
 <div style="display: inline_block"><br>
